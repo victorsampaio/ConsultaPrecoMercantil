@@ -1,0 +1,1 @@
+"C:\Program Files\MySQL\MySQL Server 5.0\bin\mysqldump.exe" --user=root --password=jlar0582 scmp > scmp.sql
